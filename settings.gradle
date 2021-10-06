@@ -1,0 +1,2 @@
+rootProject.name = "TODO RecycleView"
+include ':app'
